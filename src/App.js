@@ -6,7 +6,7 @@ function App() {
 
   return (
     <main>
-      <h1>React is pretty neat!🎩</h1>
+      <h1>React is pretty REALLY cool / neat!⭐️⭐️⭐️</h1>
       <h2>
         Deployed with{' '}
         <a
